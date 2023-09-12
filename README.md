@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/therealclarkk
-[linkedin]: https://linkedin.com/in/r-javarius-fields-ed-d-212654ab/
+[linkedin]: https://linkedin.com/in/r-javarius-fields-ed-d-212654ab
