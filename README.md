@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Javarius, an <a href="www.linkedin.com/in/dr-javarius-fields-ed-d-212654ab">IT Professional</a>☺</h1>
 
-<!--
-**JavariusFields/JavariusFields** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Ticket Lifecycle Examples]()
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/therealclarkk
+[linkedin]: https://linkedin.com/in/r-javarius-fields-ed-d-212654ab/
