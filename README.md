@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javarius, an <a href="www.linkedin.com/in/javariusjfields">IT Professional</a>☺</h1>
+<h1>Hi, I'm Javarius, an <a href="https://linkedin.com/in/javariusjfields">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/therealclarkk
-[linkedin]: www.linkedin.com/in/javariusjfields
+[linkedin]: https://linkedin.com/in/javariusjfields
