@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javarius, an <a href="www.linkedin.com/in/dr-javarius-fields-ed-d-212654ab">IT Professional</a>☺</h1>
+<h1>Hi, I'm Javarius, an <a href="www.linkedin.com/in/javariusjfields">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/therealclarkk
-[linkedin]: https://linkedin.com/in/r-javarius-fields-ed-d-212654ab
+[linkedin]: www.linkedin.com/in/javariusjfields
