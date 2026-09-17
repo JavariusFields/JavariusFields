@@ -2,6 +2,8 @@
 
 <h2>🛡️ Security Operations & Reconnaissance:</h2>
 
+- <b>Incident Response & Malware Forensics</b>
+  - [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com/JavariusFields/asyncrat-forensics)
 - <b>Network Security & Automation</b>
   - [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
 
