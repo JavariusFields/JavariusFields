@@ -1,35 +1,26 @@
-<!-- THEME HEADER BANNER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Cyber Dashboard Header" />
-</p>
+<h1 align="center">⚡ SYSTEM LOG: JAVARIUS FIELDS ⚡</h1>
+<p align="center"><b>SOC Analyst | Threat Hunter | Network Security & Automation</b></p>
 
-<!-- VISUAL HARDWARE/TOOL BADGES -->
-<p align="center">
-  <img src="https://shields.io" alt="Security Engine Active" />
-  <img src="https://shields.io" alt="Cloud Tenant Configured" />
-</p>
+```text
+===================================================================
+[+] STATUS: SECURITY_ENGINE_ACTIVE
+[+] DOMAIN: SEC_OPS_&_RECONNAISSANCE
+===================================================================
+```
 
-<p align="center">
-  <img src="https://shields.io" alt="OS Badge" />
-  <img src="https://shields.io" alt="SIEM Badge" />
-  <img src="https://shields.io" alt="Infra Badge" />
-</p>
-
----
-
-## 🛡️ CORE METRICS: SECURITY OPERATIONS & FORENSICS
+## 🛡️ INCIDENT RESPONSE & FORENSICS LABS
 
 ### 🧬 [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com)
-> **STATUS:** `LOG_PARSING_COMPLETE` | **TARGET:** `MALICIOUS_DROPPER_C2`
-* **Analytical Workflow:** Engineered isolated `Zeek` and `Tshark` packet-parsing streams to strip malicious obfuscation delimiters, bypass decoy variable arrays, and unmask reflective process injection targeting a signed Microsoft utility (`RegSvcs.exe`). 
+> **METADATA:** `LOG_PARSING_COMPLETE` | **TARGET:** `MALICIOUS_C2_INFRA`
+* Engineered isolated `Zeek` and `Tshark` packet-parsing streams to strip malicious obfuscation delimiters, bypass decoy variable arrays (`$hexString_pe`), and unmask reflective process injection targeting a signed Microsoft utility (`RegSvcs.exe`).
 
 ### ⚡ [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
-> **STATUS:** `DEPLOYED` | **TARGET:** `RECON_AUTOMATION`
-* **Analytical Workflow:** Multi-threaded socket-scanning engine built natively for low-overhead port reconnaissance, network discovery, and automated log parsing.
+> **METADATA:** `DEPLOYED` | **TARGET:** `RECON_AUTOMATION`
+* Multi-threaded socket-scanning engine built natively for low-overhead port reconnaissance, network discovery, and automated log parsing.
 
 ---
 
-## ☁️ TENANT MATRIX: ENTERPRISE IT & CLOUD ARCHITECTURE
+## ☁️ CLOUD MATRIX: ENTERPRISE IT ARCHITECTURE
 
 ### 🌐 Microsoft Azure Infrastructure
 * [Configuring On-Premises Active Directory within Azure VMs](https://github.com) — Mapping virtual network topologies and deploying multi-tenant enterprise directory trees.
@@ -41,17 +32,6 @@
 
 ---
 
-## 🛰️ TERMINAL OUTBOUNDS
+## 🛰️ OUTBOUND TERMINALS
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Terminal" />
-  </a>
-</p>
-
-<!-- DYNAMIC REPO VISUAL STATS WIDGET -->
-<p align="center">
-  <br />
-  <img src="https://vercel.app" width="48%" alt="Javarius GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Javarius Top Languages" />
-</p>
+* 💼 **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
