@@ -1,23 +1,57 @@
-<h1>Hi, I'm Javarius, a <a href="https://linkedin.com/in/javariusjfields">Cybersecurity Professional</a>☺</h1>
+<!-- THEME HEADER BANNER -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Cyber Dashboard Header" />
+</p>
 
-<h2>🛡️ Security Operations & Reconnaissance:</h2>
+<!-- VISUAL HARDWARE/TOOL BADGES -->
+<p align="center">
+  <img src="https://shields.io" alt="Security Engine Active" />
+  <img src="https://shields.io" alt="Cloud Tenant Configured" />
+</p>
 
-- <b>Incident Response & Malware Forensics</b>
-  - [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com/JavariusFields/asyncrat-forensics)
-- <b>Network Security & Automation</b>
-  - [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
+<p align="center">
+  <img src="https://shields.io" alt="OS Badge" />
+  <img src="https://shields.io" alt="SIEM Badge" />
+  <img src="https://shields.io" alt="Infra Badge" />
+</p>
 
-<h2> Information Technology Projects:</h2>
+---
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/javariusfields/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JavariusFields/post-install-config)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JavariusFields/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JavariusFields/monitoring-protocols)
+## 🛡️ CORE METRICS: SECURITY OPERATIONS & FORENSICS
 
-<h2>Connect with me:</h2>
+### 🧬 [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com)
+> **STATUS:** `LOG_PARSING_COMPLETE` | **TARGET:** `MALICIOUS_DROPPER_C2`
+* **Analytical Workflow:** Engineered isolated `Zeek` and `Tshark` packet-parsing streams to strip malicious obfuscation delimiters, bypass decoy variable arrays, and unmask reflective process injection targeting a signed Microsoft utility (`RegSvcs.exe`). 
 
-[<img align="left" alt="Javarius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### ⚡ [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
+> **STATUS:** `DEPLOYED` | **TARGET:** `RECON_AUTOMATION`
+* **Analytical Workflow:** Multi-threaded socket-scanning engine built natively for low-overhead port reconnaissance, network discovery, and automated log parsing.
 
-[linkedin]: https://linkedin.com/in/javariusjfields
+---
+
+## ☁️ TENANT MATRIX: ENTERPRISE IT & CLOUD ARCHITECTURE
+
+### 🌐 Microsoft Azure Infrastructure
+* [Configuring On-Premises Active Directory within Azure VMs](https://github.com) — Mapping virtual network topologies and deploying multi-tenant enterprise directory trees.
+* [Network Security Groups (NSGs) & Protocol Inspection](https://github.com) — Designing granular ingress/egress firewalls and capturing protocol traffic logs across Azure endpoints.
+
+### 🎫 osTicket (Enterprise Lifecycle Support)
+* [osTicket: Environment Prerequisites & Native Installation](https://github.com)
+* [osTicket: Post-Installation Operational Configuration](https://github.com)
+
+---
+
+## 🛰️ TERMINAL OUTBOUNDS
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Terminal" />
+  </a>
+</p>
+
+<!-- DYNAMIC REPO VISUAL STATS WIDGET -->
+<p align="center">
+  <br />
+  <img src="https://vercel.app" width="48%" alt="Javarius GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Javarius Top Languages" />
+</p>
