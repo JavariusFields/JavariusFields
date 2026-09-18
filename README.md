@@ -1,37 +1,41 @@
 <h1 align="center">⚡ SYSTEM LOG: JAVARIUS FIELDS ⚡</h1>
-<p align="center"><b>SOC Analyst | Threat Hunter | Network Security & Automation</b></p>
+<p align="center"><b>Incident Response | Network Security & Automation | Cloud Infrastructure</b></p>
 
-```text
-===================================================================
-[+] STATUS: SECURITY_ENGINE_ACTIVE
-[+] DOMAIN: SEC_OPS_&_RECONNAISSANCE
-===================================================================
-```
-
-## 🛡️ INCIDENT RESPONSE & FORENSICS LABS
-
-### 🧬 [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com)
-> **METADATA:** `LOG_PARSING_COMPLETE` | **TARGET:** `MALICIOUS_C2_INFRA`
-* Engineered isolated `Zeek` and `Tshark` packet-parsing streams to strip malicious obfuscation delimiters, bypass decoy variable arrays (`$hexString_pe`), and unmask reflective process injection targeting a signed Microsoft utility (`RegSvcs.exe`).
-
-### ⚡ [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
-> **METADATA:** `DEPLOYED` | **TARGET:** `RECON_AUTOMATION`
-* Multi-threaded socket-scanning engine built natively for low-overhead port reconnaissance, network discovery, and automated log parsing.
+<p align="center">
+  <code><b>OPERATIONAL PROFILE:</b> SECURITY_ENGINE_ACTIVE</code> • <code><b>ENVIRONMENT:</b> MULTI_TENANT_HYBRID</code>
+</p>
 
 ---
 
-## ☁️ CLOUD MATRIX: ENTERPRISE IT ARCHITECTURE
+## 🛡️ INCIDENT RESPONSE & NETWORK FORENSICS
 
-### 🌐 Microsoft Azure Infrastructure
-* [Configuring On-Premises Active Directory within Azure VMs](https://github.com) — Mapping virtual network topologies and deploying multi-tenant enterprise directory trees.
-* [Network Security Groups (NSGs) & Protocol Inspection](https://github.com) — Designing granular ingress/egress firewalls and capturing protocol traffic logs across Azure endpoints.
+### 🧬 [Case Study: Deep-Dive Network Forensics & Behavioral Analysis (AsyncRat)](https://github.com)
+> **METADATA:** `ANALYSIS_COMPLETE` | **FAMILY:** `Backdoor:MSIL/AsyncRat`
+* **Network Trajectory:** Isolated covert dynamic C2 infrastructure (`madmrx.duckdns.org`) routing traffic over port 222 to a commercial VPS block (ReliableSite LLC / ASN 23470).
+* **De-obfuscation Pipeline:** Navigated code-level decoy variable arrays (`$hexString_pe`) to extract the primary malicious executable data block (`$hexString_bbb`), stripping delimiter masking to calculate cryptographic file signatures natively.
+* **LOLBin Injection:** Reverse-engineered a layered anti-analysis string-concatenation layout (`$NA` + `$AC`) leveraging dead-code replacement strings to unmask reflective memory injection targeting a signed Microsoft framework component (`RegSvcs.exe`).
+* **Host Baselines:** Traced host-level file system persistence modifications via programmatic filtering to pinpoint malicious droppers (`Conted.vbs`, `Conted.cmd`) inside the public file workspace.
 
-### 🎫 osTicket (Enterprise Lifecycle Support)
-* [osTicket: Environment Prerequisites & Native Installation](https://github.com)
-* [osTicket: Post-Installation Operational Configuration](https://github.com)
+### ⚡ [Python TCP Port Scanner & Automated Logging Engine](https://github.com)
+> **METADATA:** `PRODUCTION_READY` | **TARGET:** `RECON_AUTOMATION`
+* Engineered a multi-threaded, low-overhead network socket scanner featuring asynchronous connection tracking and centralized logging capabilities for rapid target assessment.
+
+---
+
+## ☁️ CLOUD MATRIX & IT INFRASTRUCTURE
+
+### 🌐 Microsoft Azure Solutions
+* **[Configuring On-Premises Active Directory within Azure VMs](https://github.com)**  
+  *Designed, routed, and deployed internal domain controllers and multi-tier organizational tree layers within virtualized tenant networks.*
+* **[Network Security Groups (NSGs) & Protocol Inspection](https://github.com)**  
+  *Implemented granular inbound/outbound firewall rules and utilized packet analyzers to audit communications across active cloud endpoints.*
+
+### 🎫 osTicket Enterprise Operations
+* **[osTicket: Environment Prerequisites & Native Installation](https://github.com)**
+* **[osTicket: Post-Installation Operational Configuration](https://github.com)**
 
 ---
 
 ## 🛰️ OUTBOUND TERMINALS
 
-* 💼 **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+* 💼 **LinkedIn Professional Profile:** [://linkedin.com](https://://linkedin.com)
