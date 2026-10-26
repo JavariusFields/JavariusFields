@@ -43,6 +43,8 @@
 
 ---
 
+---
+
 ## 🛰️ OUTBOUND TERMINALS
 
-- 💼 **LinkedIn Professional Profile:** [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn Professional Profile:** [linkedin.com/in/javariusjfields](https://www.linkedin.com/in/javariusjfields)
